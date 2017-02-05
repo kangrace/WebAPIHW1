@@ -1,0 +1,6 @@
+var jsonData = JSON.parse(responseBody);
+postman.setEnvironmentVariable("book_title", "Turing");
+
+tests["Titles include Turing"] = "book_title".has("book_title");
+
+tests["Status code is 200"] = responseCode.code === 200;
