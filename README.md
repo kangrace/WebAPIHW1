@@ -1,5 +1,5 @@
 # WebAPIHW1
 
-Grace Kang__
-CSCI 3800-001__
+Grace Kang <br />
+CSCI 3800-001 <br />
 Assignment 1
